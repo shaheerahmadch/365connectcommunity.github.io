@@ -2491,7 +2491,9 @@ textarea.form-control {
   background-color: rgba(40, 167, 69, 0.9);
   border-radius: 0.25rem;
 }
-
+header.main-header {
+  box-shadow: 0px 15px 10px -15px #111;    
+}
 .was-validated .form-control:valid,
 .form-control.is-valid {
   border-color: #28a745;

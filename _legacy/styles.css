@@ -252,6 +252,9 @@
  .header a {
      color: #eee
  }
+ header.main-header {
+    box-shadow: 0px 15px 10px -15px #111;    
+}
 
  .menu {
      display: block;
